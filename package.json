@@ -1,0 +1,24 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Very simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjoynt2/simpleserver.git"
+  },
+  "keywords": [
+    "node.js",
+    "simple",
+    "server"
+  ],
+  "author": "Brian Joynt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjoynt2/simpleserver/issues"
+  },
+  "homepage": "https://github.com/bjoynt2/simpleserver#readme"
+}
